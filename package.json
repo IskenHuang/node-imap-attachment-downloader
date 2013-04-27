@@ -1,0 +1,21 @@
+{
+  "name": "node-imap-attachment-downloader",
+  "version": "0.0.1",
+  "description": "An nodejs imap client downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "nodejs",
+    "imap"
+  ],
+  "author": "Isken Huang",
+  "license": "MIT",
+  "dependencies": {
+    "imap": "~0.7.10",
+    "mimelib": "~0.2.12",
+    "nconf": "~0.6.7"
+  }
+}

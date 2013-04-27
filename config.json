@@ -1,0 +1,11 @@
+{
+	"SAVE_FILE_PATH"       : "./resources/", // save attachments path
+	"IS_SAVE_BODY"         : false,
+	"IS_SAVE_FILE_ORIGINAL": true,
+	"IMAP_USER"            : "YOUR_EMAIL_ADDRESS",
+	"IMAP_PASSWORD"        : "YOUR_EMAIL_PASSWORD",
+	"IMAP_HOST"            : "imap.gmail.com", // gmail imap host
+	"IMAP_PORT"            : 993, // gmail imap ssl port
+	"IMAP_SECURE"          : true,
+	"SEARCH_RULE"          : [ "FLAGGED", ["SINCE", "Feb 26, 2013"] ] // search default rule
+}
