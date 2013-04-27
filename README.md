@@ -4,13 +4,17 @@ Gmail imap client attachment downloader for nodejs
 
 # Usage
 step1. Clone project
+
 step2. install plugin `npm install`
+
 step3. modify config.json setup your Gmail account and password
+
 step4. Run `node index`
 
 
+
 # License (MIT)
-```
+```text
 Copyright (C) 2013 by Isken Huang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
